@@ -2,7 +2,7 @@
 
 🎓 7th-semester Informatics student at Universitas Multimedia Nusantara  
 💻 Passionate in Mobile Development (Kotlin, Java, Flutter/Dart) & also experienced in Backend with Golang  
-🌱 Currently exploring Flutter and expanding skills in mobile & backend ecosystem
+🌱 Currently exploring Kotlin Multiplatform, Golang and expanding skills in backend ecosystem
 
 ---
 
