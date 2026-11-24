@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dafa Taufik Al Latief
 
-🎓 7th-semester Informatics student at Universitas Multimedia Nusantara  
-💻 Passionate in Mobile Development (Kotlin, Java, Flutter/Dart) & also experienced in Backend with Golang  
+🎓 Fresh Graduate in Informatics from Universitas Multimedia Nusantara  
+💻 Passionate in Mobile (Kotlin, Java, Flutter/Dart) & Backend Development (Golang, NodeJs)  
 🌱 Currently exploring Kotlin Multiplatform, Golang and expanding skills in backend ecosystem
 
 ---
